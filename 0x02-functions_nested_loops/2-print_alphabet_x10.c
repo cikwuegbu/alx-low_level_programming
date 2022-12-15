@@ -13,8 +13,6 @@ i = 0;
 while (i < 10)
 {
 for (c = 'a'; c <= 'z'; c++)
-}
-{
 _putchar (c);
 }
 {
